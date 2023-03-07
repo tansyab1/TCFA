@@ -10,3 +10,10 @@ The project is built with PyTorch 1.9.0, Python3.7, CUDA11.1. For package depend
 ```bash
 pip install -r requirements.txt
 ```
+
+## Data preparation 
+For Kvasir-Capsule , you can download the SIDD-Medium dataset from the [official url](https://cloud.math.univ-paris13.fr/index.php/s/X8An6CWEKnXano9).
+
+
+## Contact
+Please contact us if there is any question or suggestion(Tan-Sy Nguyen tansy.nguyen@math.univ-paris13.fr).
