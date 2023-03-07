@@ -15,5 +15,11 @@ pip install -r requirements.txt
 For Kvasir-Capsule , you can download the SIDD-Medium dataset from the [official url](https://cloud.math.univ-paris13.fr/index.php/s/X8An6CWEKnXano9).
 
 
+## Visualization
+
+We provide a visualization of the image enhancement results of TCFA on Kvasir-Capsule dataset
+
+![TCFA](fig/visual.png)
+
 ## Contact
 Please contact us if there is any question or suggestion(Tan-Sy Nguyen tansy.nguyen@math.univ-paris13.fr).
