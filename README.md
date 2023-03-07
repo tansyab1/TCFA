@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Data preparation 
-For Kvasir-Capsule , you can download the SIDD-Medium dataset from the [official url](https://cloud.math.univ-paris13.fr/index.php/s/X8An6CWEKnXano9).
+For Kvasir-Capsule , you can download the simulated dataset from the [official url](https://cloud.math.univ-paris13.fr/index.php/s/X8An6CWEKnXano9).
 
 
 ## Visualization
