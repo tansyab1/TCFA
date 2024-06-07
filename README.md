@@ -1,4 +1,4 @@
-# TCFA: Triplet Clustering Fusion Autoencoder for Quality Enhancement of Wireless Capsule Endoscopy Images
+# A New Method for Uneven Illumination Correction of Wireless Capsule Endoscopy Images
 <b><a href='https://github.com/tansyab1'>Tan-Sy Nguyen</a>, Marie Luong, John Chaussard, Azeddine Beghdadi, Hatem Zaag, Thuong Le-Tien</b> 
 <hr>
 <i>We propose a novel method, named Triplet Clustering Fusion Autoencoder (TCFA), oriented for uneven illumination (UI) correction of Wireless Capsule Endoscopy (WCE) images. Our approach also accounts for different levels of distortion severity. To achieve this, we introduce a distortion level encoder utilizing the triplet loss function to classify the UI severity. Additionally, we propose a Variational Cross-Attention module to efficiently correct uneven illumination by extracting both global and structural local information. Furthermore, we leverage a pre-trained network to extract relevant structural features from WCE images. Our method demonstrates significant improvements in image enhancement tasks, as evidenced by extensive experiments conducted on WCE images from the Kvasir-Capsule dataset.
